@@ -9,8 +9,8 @@ git clone https://github.com/rishabh26malik/SSD-Lab-Activity-2
 git remote -v
 ------------------------
 ## Git Workflow:
-cd SSD-Lab-Activity-2
-git status
+cd SSD-Lab-Activity-2<br />
+git status<br />
 git add README.md
 git status
 git log
